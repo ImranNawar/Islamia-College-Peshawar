@@ -37,3 +37,20 @@
 .dropdown-item:hover {
     background-color: #700;
   }
+.carousel-item img {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+.carousel-small {
+    width: 70%;
+    margin: 0 auto; /* Center the carousel */
+}
+.heading {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  font-style: oblique;
+  font-display: rgb(1, 1, 47);
+  padding: 10px 0px 0px 10px;
+  border-bottom: 3px solid black;
+}
