@@ -1,0 +1,39 @@
+.header {
+  background-color: rgb(255, 255, 255);
+  padding: 10px;
+}
+.header-logo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+/* .header-logo img {
+  height: 40px;
+} */
+.header-search-bar {
+  margin-top: 10px;
+}
+.header-buttons {
+  margin-top: 10px;
+}
+.header-buttons .btn {
+  margin-right: 5px;
+}
+
+.bg-red {
+  background-color: #600;
+  padding: 2px;
+  margin: 10px;
+  border-radius: 7px;
+}
+.bg-red .nav-link {
+   color: white;
+}
+.navbar-toggler-icon {
+    background-color: rgb(148, 36, 36);
+    border-radius: 5px;
+  }
+
+.dropdown-item:hover {
+    background-color: #700;
+  }
