@@ -78,3 +78,13 @@
 .card-text {
   font-size: small;
 }
+
+.footer-link {
+  color: white;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color:rgb(116, 121, 121) ;
+  text-decoration: none;
+}
