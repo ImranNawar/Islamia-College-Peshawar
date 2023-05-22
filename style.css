@@ -27,6 +27,12 @@
 .header-buttons .btn {
   margin-right: 5px;
 }
+@media (max-width: 550px){
+  .header-buttons .btn {
+    margin-right: 2px;
+    font-size: 12px;
+  }
+}
 
 /* Navbar */
 .bg-red {
