@@ -2,7 +2,7 @@
 
 This project is a clone of the frontend webpage of the official website of Islamia College, Peshawar. It is built using HTML, Bootstrap 5.3, and custom CSS styles.
 
-[![Home Page](./img/HomePage.png)]([https://example.com/destination](https://imrannawar.github.io/Islamia-College-Peshawar/))
+[![Home Page](./img/HomePage.png)](https://imrannawar.github.io/Islamia-College-Peshawar/)
 
 ## Installation
 
